@@ -32,7 +32,7 @@ In this report, we explore and compare the most commonly used normalization meth
 
 Click the link below to read the complete PDF report:
 
-[![View PDF](https://img.shields.io/badge/Open_Report-PDF-blue)](normalization%20methods%20for%20data_Farzad%20Mohseni.pdf)
+[![View PDF](https://img.shields.io/badge/Open_Report-PDF-blue)](https://github.com/farzadmohseni-ir/normalization-methods/blob/main/normalization%20methods.pdf)
 
 ---
 
